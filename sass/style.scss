@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&family=Poppins:wght@600&family=Work+Sans&display=swap');
+@import '_variables';
+
+.narbar{
+  margin-top: 60px ;
+}
+
+.navarLogo{
+  margin-right: 285px;
+
+}
+
+.nav-link{
+  margin-right: 45px;
+  color: #242f51;
+  font-weight: 600;
+  font-family: $navbarFontFamily;
+}
+
+.sectionTitle {
+  font-size: 60px;
+  font-family:$navbarFontFamily;
+  color:$navbarColor;
+  line-height: 1.2;
+}
+
+.Increase_productivity_with_a_simple_to_do_app__ {
+  margin-top: 50px ;
+  font-size: 18px;
+  font-family:  $navbarFontFamily;
+  color: rgb(97, 99, 104);
+  font-weight: 400;
+  line-height: 1.333;
+  text-align: left;
+
+}
+
+.sectionButton{
+  margin-top:45px  ;
+}
+.sectionTitle{
+  font-size: 60px;
+  font-family: $navbarFontFamily;
+  color:  #242f51;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: left;
+}
+.comp{
+  margin-right: 137px ;
+}
+
+.section-1{
+  margin-top: 44px ;
+}
+
+.Automatic_Payouts {
+  font-size: 20px;
+  font-family:  $navbarFontFamily;
+  color: rgb(245, 87, 103);
+  font-weight: bold;
+  line-height: 2.4;
+  text-align: left;
+
+}
+.subTitle1 {
+  font-size: 16px;
+  font-family:  $navbarFontFamily;
+  color: rgb(97, 99, 104);
+  line-height: 1.5;
+  text-align: left;
+}
+
+.Network_Effect {
+  font-size: 20px;
+  font-family:  $navbarFontFamily;
+  color: rgb(37, 99, 255);
+  font-weight: bold;
+  line-height: 2.4;
+  text-align: left;
+}
+.Bigger_Rewards_Method {
+  font-size: 20px;
+  font-family: "Poppins";
+  color: rgb(64, 151, 95);
+  font-weight: bold;
+  line-height: 2.4;
+  text-align: left;
+}
+.section-2{
+  margin-top: 190px ;
+}
+.Designed___built_by_the_latest_code_integration {
+  font-size: 36px;
+  font-family: "Poppins";
+  color: rgb(36, 47, 81);
+  font-weight: 700;
+  line-height: 1.333;
+  text-align: left;
+}
+
+.subTitle2 {
+  margin-top: 27px ;
+  font-size: 16px;
+  font-family: "Poppins";
+  color: rgb(97, 99, 104);
+  line-height: 1.5;
+  text-align: left;
+}
+
+.footerTitle{
+  font-weight: 700;
+  font-size: 30px ;
+  margin-top: 65px ;
+  font-family: $navbarFontFamily;
+}
+
+.footer{
+  background-color: #242f51;
+  color: aliceblue;
+  height: 378px ;
+}
+.footer-Item{
+  margin-top: 85px  ;
+  margin-right: 39px ;
+  size: 16px ;
+  font-family: $navbarFontFamily;
+  font-weight: 400;
+}
